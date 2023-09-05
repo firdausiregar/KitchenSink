@@ -2,7 +2,7 @@
 
 ### Demo application of the [KivyMD](https://github.com/kivymd/KivyMD) library widgets
 
-[![APK build](https://github.com/kivymd/KitchenSink/actions/workflows/main.yml/badge.svg)](https://github.com/kivymd/KitchenSink/actions/workflows/main.yml)
+[![APK build](https://github.com/firdausiregar/KitchenSink/actions/workflows/main.yml/badge.svg)](https://github.com/firdausiregar/KitchenSink/actions/workflows/main.yml)
 
 <p align="center">
     <img 
